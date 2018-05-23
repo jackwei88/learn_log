@@ -52,6 +52,26 @@
 2018-05-22
 
 ### action(调整):
-- 学习慕课的案例，跟着联系做。
+- 学习慕课的案例，跟着练习做。
 - confirm，alert，prompt的区别，前者确认框，会返回布尔值(true,false)，后者警告框，再后者点击确认返回输入框的值，否则null
 - 未完待续..
+
+## day4
+### plan(计划):  
+- 继续昨天课程，完成javascript基础学习。
+- 预习下一章节，javascript中级教程
+
+
+### design(设计-怎么学,做):
+- javascript入门课程（慕课）
+- 根据慕课提供的样式运行，自己改。
+- 
+
+### date(日期):
+2018-05-23
+
+### action(调整):
+- javascript的window属性window.open([URL], [窗口名称], [参数字符串])，close;
+- 做了例子：用了prompt的用法，和window.open的用法。[prompt.html];
+- innerHTML的用法;
+- className 这个添加样式名;
